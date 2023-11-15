@@ -1,6 +1,5 @@
 import logo from "./image/img1.png";
 
-
 const NavBar = () => {
     return (
         <nav>
