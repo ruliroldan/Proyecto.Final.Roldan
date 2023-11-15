@@ -1,7 +1,7 @@
 import NavBar from './Components/NavBar'; 
 import './App.css'
 import CartWidget from './Components/CartWidget';
-
+import ItemListContainer from './components/ItemListContainer';
 
 function App() {
     
@@ -9,7 +9,9 @@ function App() {
     <div className='App'>
       <NavBar />
 
-      <CartWidget /> 
+      <CartWidget />
+
+      <ItemListContainer greeting="¡Bienvenidos!!" />
     </div>
     
   );
