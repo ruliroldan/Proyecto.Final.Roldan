@@ -3,6 +3,7 @@ import './App.css'
 import CartWidget from './Components/CartWidget';
 import ItemListContainer from './components/ItemListContainer';
 import ItemCounter from './components/itemCount';
+import ProductList from './components/ProductList';
 
 function App() {
     
