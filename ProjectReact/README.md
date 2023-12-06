@@ -1,8 +1,18 @@
-# React + Vite
+# Proyecto Ecommerce React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Curso: Coderhouse ReactJS
+Comisión: 39655
+Profesor: Francisco Pugh
+Alumno: Raúl Alejandro Roldán
+Fecha: 2023-05-16
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Tecnologías
+React.js
+Estilos: TailwindCSS 3.3.1
+UI Components: DaisyUI
+Notificaciones: react-hot-toast
+Base de datos: Firebase
+Build tool: Vite
+Linter: StandardJS (ESLint)
+Configuración y Ejecución
+Clona el repositorio y ejecuta:
